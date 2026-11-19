@@ -1,0 +1,26 @@
+{
+  "id": "/laboratorija-pizza/kuhinja",
+  "name": "Laboratorija · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Laboratorija Pizza & Coffee",
+  "lang": "sr",
+  "start_url": "/laboratorija-pizza/kuhinja",
+  "scope": "/laboratorija-pizza/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#161616",
+  "background_color": "#161616",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
